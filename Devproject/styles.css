@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif, monospace;
+    background-color:ghostwhite;
+    width: 100%; text-align: center;
+}
+
+h1, h2 {
+    color: darkslateblue;
+    background-color: darkorange;
+    font: size 200px;;
+    font-weight: bolder;
+    text-align: center;
+    padding: 15px;
+    border: 5px solid blue;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table {
+    margin: 0 auto; 
+    border-collapse: collapse; 
+    width: 50%;
+}
+
+th, td {
+    padding: 15px; 
+    text-align: left;
+}
+
+th {height: 75px; 
+    text-align: center; 
+    background-color: darkslategrey; 
+    color: salmon; 
+    text-transform: uppercase; 
+    font-size: 20px;
+}
+
+
+
